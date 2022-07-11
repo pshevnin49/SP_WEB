@@ -23,9 +23,10 @@
                 <input type="password" class="form-control" name="password" id="password" value="" placeholder="Set password" required></label>
                 <br>
 
-                <label>New to portal? Sign up</label>
+                <label>New to portal? </label>
+                <a href="registration.php">Sign up</a>
                 <br>
-                <button class="btn" id="button_login" name="action" value="login" type="submit" >Sign in</button><br>
+                <button class="btn" id="login_button"  name="action" value="login" type="submit" >Sign in</button><br>
 
 
             </div>
