@@ -1,0 +1,36 @@
+
+
+
+#login_form{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    outline: 2px solid #7CC4DF;
+    min-width: 240px;
+    min-height: 200px;
+    max-width: 260px;
+    max-height: 280px;
+    text-align: center;
+    background-color: #AED2DF;
+    border-radius: 5px; /* Уголки */
+
+}
+
+#email{
+    margin-top: 0px;
+}
+
+#button_login{
+    margin-bottom: 10px;
+    background-color: #265364;
+    color: #AED2DF;
+}
+
+h1{
+    color: #265364;
+}
+
+
