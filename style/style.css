@@ -1,5 +1,4 @@
 
-
 #login_form{
     position: fixed;
     top: 50%;
@@ -16,6 +15,23 @@
     background-color: #AED2DF;
     border-radius: 5px; /* Уголки */
 
+}
+
+#no_rights_form{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    outline: 2px solid #7CC4DF;
+    min-width: 150px;
+    min-height: 100px;
+    max-width: 300px;
+    max-height: 550px;
+    text-align: center;
+    background-color: #AED2DF;
+    border-radius: 5px; /* Уголки */
 }
 
 #registration_form{
@@ -35,6 +51,10 @@
     border-radius: 5px; /* Уголки */
 
 }
+
+
+
+
 
 #email{
     margin-top: 0px;
